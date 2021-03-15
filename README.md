@@ -1,2 +1,5 @@
 # hello-world
-just a simple respository
+Hello Ereryone!
+
+I am Mindy, I'd like to learn nodejs and the essential's of js.
+And I will use reactjs to my projects.
